@@ -1,3 +1,4 @@
+## 👋 About Me:
 🎓 Master’s in Analytics @ UC Berkeley | Ex-Novartis | Data Science & Strategy  
 💡 Passionate about solving real-world problems through AI, optimization, and storytelling  
 🧠 Currently exploring LLMs, voice cloning, and skill intelligence  
@@ -6,9 +7,10 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sri-lahari-dwadasi) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dwadasi179@gmail.com)  
+
 📁 **Explore My Work:** [Portfolio](https://www.datascienceportfol.io/SriLahariDwadasi)
 
-### 💻 Tech Stack
+## 💻 Tech Stack:
 
 **Languages & Programming:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -36,7 +38,7 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🤝 Open To
+## 🤝 Open To:
 - Internship & full-time roles in Data Science, Machine Learning, or Analytics  
 - Collaborations on open-source ML/AI tools and research  
 - LLM experimentation, skill intelligence, and optimization projects
